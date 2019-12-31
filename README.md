@@ -11,4 +11,4 @@ A simple way to download imagery based on the date of last fire that occured in 
 
 ### Examining the distribution of bedrock types using USGS data
 
-![Image](Rock_types.png)
+![Image](https://github.com/kmp24/geologypython/blob/master/Rock_types.png)
