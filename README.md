@@ -12,3 +12,10 @@ A simple way to download imagery based on the date of last fire that occured in 
 ### Examining the distribution of bedrock types using USGS data
 
 ![Image](https://github.com/kmp24/geologypython/blob/master/Rock_types.png)
+
+
+### Work at UC Boulder - open courses on Earth Data Science
+
+### Cloud Mask
+
+[Cloud Mask](https://github.com/kmp24/CloudMask/cloudmask.rmd) ![Image](https://github.com/kmp24/CloudMask/5.PNG)
