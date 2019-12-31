@@ -14,8 +14,13 @@ A simple way to download imagery based on the date of last fire that occured in 
 ![Image](https://github.com/kmp24/geologypython/blob/master/Rock_types.png)
 
 
-### Work at UC Boulder - open courses on Earth Data Science
+## UC Boulder - open coursework for the graduate certificate in Earth Data Science https://www.earthdatascience.org/
 
-### Cloud Mask
+### Here's a few of the projects I first learned to code in R
 
-[Cloud Mask](https://github.com/kmp24/CloudMask/cloudmask.rmd) ![Image](https://github.com/kmp24/CloudMask/5.PNG)
+[Cloud Mask](https://github.com/kmp24/CloudMask/blob/master/README.md) ![Image](https://github.com/kmp24/CloudMask/blob/master/5.png)
+
+
+## University of Helsinki
+
+![Image](https://github.com/kmp24/oldsite/blob/master/static_map.png)
